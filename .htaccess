@@ -1,1 +1,1 @@
-redirectMatch 301 ^(.*)$ http://kittm.xyz
+redirectMatch 301 ^(.*)$ http://kittm.site
